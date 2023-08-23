@@ -1,0 +1,53 @@
+Average Delivery Rating (a1),Average Orders per month (a2),"""Delighted Members"" Purchase",Gini Index,
+1.5,11,Yes,,Yes = 15
+2.5,11,No,,No = 15
+2.5,11,No,,
+3.5,11,No,,
+3.5,11,No,,
+4.5,11,Yes,,
+1.5,13,Yes,,
+2.5,13,No,,
+2.5,13,No,,
+3.5,13,No,,
+3.5,13,No,,
+4.5,13,No,,
+1.5,15,Yes,,
+2.5,15,No,,
+2.5,15,No,,
+3.5,15,No,,
+3.5,15,No,,
+4.5,15,Yes,,
+1.5,27,No,,
+2.5,27,Yes,,
+2.5,27,Yes,,
+3.5,27,Yes,,
+4.5,27,Yes,,
+4.5,27,Yes,,
+1.5,39,No,,
+2.5,39,Yes,,
+2.5,39,Yes,,
+3.5,39,Yes,,
+4.5,39,Yes,,
+4.5,39,Yes,,
+,,,,
+,,,,for a1 < 3
+,,,,Yes = 7
+,,,,No = 8
+,,,,Total 15
+,,,,
+,,,,For a1 > 3
+,,,,Yes = 7
+,,,,No = 8
+,,,,Total = 15
+,,,,
+,,,,
+,,,,
+,,,,Splitting on a2 
+,,,,For a2<20
+,,,,Yes=5
+,,,,No=13
+,,,,Total=18
+,,,,For a2 > 20
+,,,,Yes=10
+,,,,No=2
+,,,,Total =12
